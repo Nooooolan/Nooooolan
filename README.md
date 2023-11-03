@@ -1,6 +1,7 @@
-### Hi, my name is Nolan
+### 👋 Hi, my name is Nolan
 
-- 🌍  I'm based in Shenzhen China
+- 🌍 I'm based in Shenzhen China
+- 🌱 I’m currently learning Swift
 
 <!--
 **Nooooolan/Nooooolan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
