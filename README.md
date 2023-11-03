@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Nolan
 
 - 🌍  I'm based in Shenzhen China
 
